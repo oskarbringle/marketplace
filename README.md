@@ -1,8 +1,6 @@
 # MERN Marketplace Application
-![App Screenshot](./images/app-screenshot.png)
-
-
 A simple full-stack marketplace application built using the MERN stack (MongoDB, Express.js, React.js, Node.js). This project implements basic CRUD (Create, Read, Update, Delete) operations and serves as a learning tool for understanding and practicing MERN stack development. It includes light-mode and dark-mode themes, as well as functionality to upload, update, and delete products.
+![App Screenshot](./images/app-screenshot.png)
 
 # Features
 User Authentication: Secure login and registration using JWT.
